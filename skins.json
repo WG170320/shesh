@@ -273,7 +273,7 @@
       "id": "karina",
       "name": "Karina",
       "category": "assassin",
-      "enabled": false,
+      "enabled": true,
       "skins": [
         {
           "id": "karina_001",
