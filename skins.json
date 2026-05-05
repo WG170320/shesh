@@ -254,18 +254,6 @@
             "gusion"
           ],
           "clicks": 0
-        },
-        {
-          "id": "gusion_011",
-          "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%208.png?raw=true",
-          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            "valentine",
-            "gusion"
-          ],
-          "clicks": 0
         }
       ]
     }
