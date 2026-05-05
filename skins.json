@@ -10,7 +10,7 @@
           "id": "fanny_001",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%201.png?raw=true",
           "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/FANNY%20FULL%20BACKUP.zip",
-          "featured": true,
+          "featured": false,
           "enabled": true,
           "tags": [
             "backup",
