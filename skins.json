@@ -274,18 +274,7 @@
       "name": "Karina",
       "category": "assassin",
       "enabled": true,
-      "skins": [
-        {
-          "id": "karina_001",
-          "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%209.png?raw=true",
-          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Fanny%20Anniversary.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            "normal"
-          ]
-        }
-      ]
+      "skins": []
     }
   ]
 }
