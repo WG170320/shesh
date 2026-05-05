@@ -12,7 +12,10 @@
           "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/FANNY%20FULL%20BACKUP.zip",
           "featured": true,
           "enabled": true,
-          "tags": ["backup", "fanny"],
+          "tags": [
+            "backup",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -21,7 +24,10 @@
           "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Fanny%20Luckybox.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["luckybox", "fanny"],
+          "tags": [
+            "luckybox",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -30,7 +36,10 @@
           "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Fanny%20Summer.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["summer", "fanny"],
+          "tags": [
+            "summer",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -39,7 +48,10 @@
           "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Fanny%20Lightborn.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["lightborn", "fanny"],
+          "tags": [
+            "lightborn",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -48,7 +60,10 @@
           "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/fanny_christmas.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["christmas", "fanny"],
+          "tags": [
+            "christmas",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -57,7 +72,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/fanny_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "fanny"],
+          "tags": [
+            "valentine",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -66,7 +84,11 @@
           "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fanny%20aot.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["aot", "anime", "fanny"],
+          "tags": [
+            "aot",
+            "anime",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -75,7 +97,10 @@
           "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20LEGEND.zip",
           "featured": true,
           "enabled": true,
-          "tags": ["legend", "fanny"],
+          "tags": [
+            "legend",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -84,7 +109,10 @@
           "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Fanny%20Anniversary.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["anniversary", "fanny"],
+          "tags": [
+            "anniversary",
+            "fanny"
+          ],
           "clicks": 0
         },
         {
@@ -93,7 +121,10 @@
           "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Fanny%20Aspirant.zip",
           "featured": true,
           "enabled": true,
-          "tags": ["aspirant", "fanny"],
+          "tags": [
+            "aspirant",
+            "fanny"
+          ],
           "clicks": 0
         }
       ]
@@ -110,7 +141,10 @@
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
           "featured": true,
           "enabled": true,
-          "tags": ["backup", "gusion"],
+          "tags": [
+            "backup",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -119,7 +153,10 @@
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Starlight.zip",
           "featured": true,
           "enabled": true,
-          "tags": ["starlight", "gusion"],
+          "tags": [
+            "starlight",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -128,7 +165,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -137,7 +177,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -146,7 +189,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -155,7 +201,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -164,7 +213,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -173,7 +225,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -182,7 +237,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -191,7 +249,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         },
         {
@@ -200,7 +261,10 @@
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
-          "tags": ["valentine", "gusion"],
+          "tags": [
+            "valentine",
+            "gusion"
+          ],
           "clicks": 0
         }
       ]
