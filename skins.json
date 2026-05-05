@@ -174,14 +174,12 @@
         {
           "id": "gusion_004",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%201.png?raw=true",
-          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
+          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_venom.zip",
           "featured": false,
           "enabled": true,
           "tags": [
-            "valentine",
             "gusion"
-          ],
-          "clicks": 0
+          ]
         },
         {
           "id": "gusion_005",
@@ -222,18 +220,6 @@
         {
           "id": "gusion_008",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%205.png?raw=true",
-          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            "valentine",
-            "gusion"
-          ],
-          "clicks": 0
-        },
-        {
-          "id": "gusion_009",
-          "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%206.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
           "enabled": true,
