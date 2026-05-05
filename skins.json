@@ -1,163 +1,209 @@
 {
   "heroes": [
     {
+      "id": "fanny",
       "name": "Fanny",
+      "category": "assassin",
+      "enabled": true,
       "skins": [
         {
+          "id": "fanny_001",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%201.png?raw=true",
           "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/FANNY%20FULL%20BACKUP.zip",
-          "featured": false,
-          "tags": [],
+          "featured": true,
+          "enabled": true,
+          "tags": ["backup", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_002",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%202.png?raw=true",
           "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Fanny%20Luckybox.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["luckybox", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_003",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%203.png?raw=true",
           "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Fanny%20Summer.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["summer", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_004",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%204.png?raw=true",
           "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Fanny%20Lightborn.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["lightborn", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_005",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%205.png?raw=true",
           "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/fanny_christmas.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["christmas", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_006",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%206.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/fanny_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_007",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%207.png?raw=true",
           "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/fanny%20aot.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["aot", "anime", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_008",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%208.png?raw=true",
           "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20LEGEND.zip",
-          "featured": false,
-          "tags": [],
+          "featured": true,
+          "enabled": true,
+          "tags": ["legend", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_009",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%209.png?raw=true",
           "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/Fanny%20Anniversary.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["anniversary", "fanny"],
           "clicks": 0
         },
         {
+          "id": "fanny_010",
           "image": "https://github.com/kairimlbb17-tech/Assassin-Image/blob/main/IMG_0082%201%20(2)%202.png?raw=true",
           "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Fanny%20Aspirant.zip",
-          "featured": false,
-          "tags": [],
+          "featured": true,
+          "enabled": true,
+          "tags": ["aspirant", "fanny"],
           "clicks": 0
         }
-      ],
-      "category": "assassin"
+      ]
     },
     {
+      "id": "gusion",
       "name": "Gusion",
+      "category": "assassin",
+      "enabled": true,
       "skins": [
         {
+          "id": "gusion_001",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0177%201.png?raw=true",
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
-          "featured": false,
-          "tags": [],
+          "featured": true,
+          "enabled": true,
+          "tags": ["backup", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_002",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0178%201.png?raw=true",
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Starlight.zip",
-          "featured": false,
-          "tags": [],
+          "featured": true,
+          "enabled": true,
+          "tags": ["starlight", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_003",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0179%201.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_004",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%201.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_005",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%202.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_006",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%203.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_007",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%204.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_008",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%205.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_009",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%206.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_010",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%207.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         },
         {
+          "id": "gusion_011",
           "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%208.png?raw=true",
           "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
           "featured": false,
-          "tags": [],
+          "enabled": true,
+          "tags": ["valentine", "gusion"],
           "clicks": 0
         }
-      ],
-      "category": "assassin"
+      ]
     }
   ]
 }
