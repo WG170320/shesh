@@ -314,6 +314,85 @@
           ]
         }
       ]
+    },
+    {
+      "id": "karina",
+      "name": "Karina",
+      "category": "assassin",
+      "enabled": true,
+      "skins": [
+        {
+          "id": "karina_001",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Karina/main/inbound1886105461253332281.jpg",
+          "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "backup"
+          ]
+        },
+        {
+          "id": "karina_002",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Karina/main/inbound4413998784513742980.jpg",
+          "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/Karina%20elite%20lily.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "elite"
+          ]
+        },
+        {
+          "id": "karina_003",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Karina/main/inbound5727256384669750075.jpg",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT/raw/main/A1%20Karina%20KOF.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "kof"
+          ]
+        },
+        {
+          "id": "karina_004",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Karina/main/inbound5920840743041882210.jpg",
+          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/karina_def_epic.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "epic"
+          ]
+        },
+        {
+          "id": "karina_005",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Karina/main/inbound6705485046712294036.jpg",
+          "script": "https://github.com/azizboy2007/v21/raw/main/Selena%20-%20Default%20to%20Elite.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "elite",
+            "default"
+          ]
+        },
+        {
+          "id": "karina_006",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Karina/main/inbound7160219919643650609.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Karina%20Zodiac.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "zodiac"
+          ]
+        },
+        {
+          "id": "karina_007",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Karina/main/inbound7612338433955626121.jpg",
+          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/karina_def_chrisN.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "christmas"
+          ]
+        }
+      ]
     }
   ]
 }
