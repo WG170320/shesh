@@ -393,6 +393,94 @@
           ]
         }
       ]
+    },
+    {
+      "id": "hayabusa",
+      "name": "Hayabusa",
+      "category": "assassin",
+      "enabled": true,
+      "skins": [
+        {
+          "id": "hayabusa_001",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Hayabusa/main/Screenshot_20260506-223437_1.jpg",
+          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "backup"
+          ]
+        },
+        {
+          "id": "hayabusa_002",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Hayabusa/main/Screenshot_20260506-223445_1.jpg",
+          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_summer.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "summer"
+          ]
+        },
+        {
+          "id": "hayabusa_003",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Hayabusa/main/Screenshot_20260506-223449_1.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hayabusa%20Annual.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "no"
+          ]
+        },
+        {
+          "id": "hayabusa_004",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Hayabusa/main/Screenshot_20260506-223454_1.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hayabusa%20Luckybox.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "luckybox"
+          ]
+        },
+        {
+          "id": "hayabusa_005",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Hayabusa/main/Screenshot_20260506-223457_1.jpg",
+          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/hayabusa_def_starl.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "normal"
+          ]
+        },
+        {
+          "id": "hayabusa_006",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Hayabusa/main/Screenshot_20260506-223501_1_1.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hayabusa%2011Eleven.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "s"
+          ]
+        },
+        {
+          "id": "hayabusa_007",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Hayabusa/main/Screenshot_20260506-223509_1.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Hayabusa%20Exorcist.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "n"
+          ]
+        },
+        {
+          "id": "hayabusa_008",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Hayabusa/main/Screenshot_20260506-223513_1.jpg",
+          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Kakashi.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "s"
+          ]
+        }
+      ]
     }
   ]
 }
