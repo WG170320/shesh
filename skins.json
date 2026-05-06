@@ -256,6 +256,64 @@
           ]
         }
       ]
+    },
+    {
+      "id": "saber",
+      "name": "Saber",
+      "category": "assassin",
+      "enabled": true,
+      "skins": [
+        {
+          "id": "saber_001",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Saber/main/inbound4646280160526546237.jpg",
+          "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/SABER%20BACKUP.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "backup"
+          ]
+        },
+        {
+          "id": "saber_002",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Saber/main/inbound4154684532462176230.jpg",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/SABER%20LEGEND%20REVAMP.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "legend"
+          ]
+        },
+        {
+          "id": "saber_003",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Saber/main/inbound1467456472332231571.jpg",
+          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/saber_def_epicsaber.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "epic"
+          ]
+        },
+        {
+          "id": "saber_004",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Saber/main/inbound5751300725892640896.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Saber%20Luckybox.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "luckybox"
+          ]
+        },
+        {
+          "id": "saber_005",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Saber/main/inbound4280913837220654682.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Saber%20Starlight.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "starlight"
+          ]
+        }
+      ]
     }
   ]
 }
