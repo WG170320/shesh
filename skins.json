@@ -173,15 +173,87 @@
         },
         {
           "id": "gusion_007",
-          "image": "https://github.com/kairimlbb17-tech/gusion_image/blob/main/IMG_0180%204.png?raw=true",
-          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_valentines.zip",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/gusion_image/main/IMG_0180%201.png",
+          "script": "https://github.com/Mexi23/Assasins_defS/raw/main/gusion_def_venom.zip",
           "featured": false,
           "enabled": true,
           "tags": [
-            "valentine",
             "gusion"
-          ],
-          "clicks": 0
+          ]
+        },
+        {
+          "id": "gusion_005",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/gusion_image/main/IMG_0180%202.png",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/gusion%20kof%20revamp.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "gusion"
+          ]
+        },
+        {
+          "id": "gusion_006",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/gusion_image/main/IMG_0180%203.png",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Gusion%20Legend.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "legend",
+            "gusion"
+          ]
+        },
+        {
+          "id": "gusion_008",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/gusion_image/main/IMG_0180%204.png",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20COLLECTOR%20RVMP.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "collector",
+            "gusion"
+          ]
+        },
+        {
+          "id": "gusion_009",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/gusion_image/main/IMG_0180%205.png",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Gusion%20Epic.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "epic",
+            "gusion"
+          ]
+        },
+        {
+          "id": "gusion_010",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/gusion_image/main/IMG_0180%206.png",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Gusion%2011.11.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "gusion"
+          ]
+        },
+        {
+          "id": "gusion_011",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/gusion_image/main/IMG_0180%207.png",
+          "script": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/GUSION%20STARLIGHT.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "starlight",
+            "gusion"
+          ]
+        },
+        {
+          "id": "gusion_012",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/gusion_image/main/IMG_0180%208.png",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20NARUTO%20NEW.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "gusion"
+          ]
         }
       ]
     }
