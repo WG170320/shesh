@@ -22,9 +22,10 @@
             },
             {
               "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
+              "name": "Saber",
+              "file": "",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+              "type": "skin_tag"
             },
             {
               "id": "assassin",
@@ -50,9 +51,10 @@
             },
             {
               "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
+              "name": "Saber",
+              "file": "",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+              "type": "skin_tag"
             },
             {
               "id": "assassin",
@@ -80,7 +82,6 @@
         },
         {
           "id": "saber_004",
-          "skin_name": "S.A.B.E.R. Regulator",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero036-portrait.png/revision/latest?cb=20220525164332",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_regulator.zip",
           "featured": false,
@@ -88,15 +89,10 @@
           "tags": [
             {
               "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
+              "name": "Saber",
+              "file": "",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+              "type": "skin_tag"
             }
           ]
         },
@@ -5026,9 +5022,10 @@
           "tags": [
             {
               "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
+              "name": "Saber",
+              "file": "",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+              "type": "skin_tag"
             },
             {
               "id": "freya",
@@ -12017,9 +12014,10 @@
           "tags": [
             {
               "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
+              "name": "Saber",
+              "file": "",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+              "type": "skin_tag"
             },
             {
               "id": "cyclops",
@@ -16864,9 +16862,10 @@
           "tags": [
             {
               "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
+              "name": "Saber",
+              "file": "",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+              "type": "skin_tag"
             },
             {
               "id": "layla",
@@ -20567,9 +20566,10 @@
           "tags": [
             {
               "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
+              "name": "Saber",
+              "file": "",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+              "type": "skin_tag"
             },
             {
               "id": "rafaela",
@@ -23483,9 +23483,10 @@
           "tags": [
             {
               "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
+              "name": "Saber",
+              "file": "",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+              "type": "skin_tag"
             },
             {
               "id": "johnson",
