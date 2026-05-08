@@ -481,6 +481,74 @@
           ]
         }
       ]
+    },
+    {
+      "id": "natalia",
+      "name": "Natalia",
+      "category": "assassin",
+      "enabled": true,
+      "skins": [
+        {
+          "id": "natalia_001",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Natalia/main/Screenshot_20260508-091948_1.jpg",
+          "script": "https://github.com/azizboy2007/All-Skins/raw/main/Natalia%20-%20Backup.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "backup"
+          ]
+        },
+        {
+          "id": "natalia_002",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Natalia/main/Screenshot_20260508-091956_1.jpg",
+          "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/NATALIA%20MIDNIGHT%20RAVEN.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "shh"
+          ]
+        },
+        {
+          "id": "natalia_003",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Natalia/main/Screenshot_20260508-092001_1.jpg",
+          "script": "https://github.com/azizboy2007/ASS-S2-SHIRO/raw/main/NATALIA%20SPECIAL1.jpg",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "special"
+          ]
+        },
+        {
+          "id": "natalia_004",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Natalia/main/Screenshot_20260508-092006_1.jpg",
+          "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/NATALIA%20SPECIAL(CYBER%20SPECTRE).zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "special"
+          ]
+        },
+        {
+          "id": "natalia_005",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Natalia/main/Screenshot_20260508-092012_1.jpg",
+          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Natalia%20Collector.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "collector"
+          ]
+        },
+        {
+          "id": "natalia_006",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Natalia/main/Screenshot_20260508-092016_1.jpg",
+          "script": "https://github.com/JhoweeMylab/New-skins-MLBB/raw/main/Natalia%20Epic.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "epic"
+          ]
+        }
+      ]
     }
   ]
 }
