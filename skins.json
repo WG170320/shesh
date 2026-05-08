@@ -8,46 +8,33 @@
       "skins": [
         {
           "id": "saber_001",
-          "skin_name": "Backup",
           "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_backup.zip",
           "featured": false,
           "enabled": true,
           "tags": [
             {
-              "id": "backup",
-              "name": "backup",
-              "icon": "",
-              "file": ""
-            },
-            {
               "id": "saber",
               "name": "Saber",
               "file": "",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
               "type": "skin_tag"
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
         {
           "id": "saber_002",
-          "skin_name": "Force Warrior",
           "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_215208293.png",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_forcewarrior.zip",
           "featured": false,
           "enabled": true,
           "tags": [
             {
-              "id": "backup",
-              "name": "backup",
-              "icon": "",
-              "file": ""
+              "id": "as",
+              "name": "AS",
+              "file": "AS Skin Tag.png",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/AS_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+              "type": "series"
             },
             {
               "id": "saber",
@@ -57,10 +44,11 @@
               "type": "skin_tag"
             },
             {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
+              "id": "s_a_b_e_r",
+              "name": "S.A.B.E.R.",
+              "file": "S.A.B.E.R. Skin Tag.png",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75",
+              "type": "series"
             }
           ]
         },
