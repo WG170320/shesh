@@ -102,7 +102,6 @@
         },
         {
           "id": "saber_005",
-          "skin_name": "Iron Hound",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero039-portrait.png/revision/latest?cb=20221216103121",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_ironhound.zip",
           "featured": false,
@@ -114,24 +113,11 @@
               "file": "Starlight Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
-            },
-            {
-              "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
         {
           "id": "saber_006",
-          "skin_name": "Onimaru",
           "image": "https://pbs.twimg.com/media/GWtJJdvaYAAbPit?format=jpg",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_onimaruluckybox.zip",
           "featured": false,
@@ -143,18 +129,6 @@
               "file": "Luckybox Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
-            },
-            {
-              "id": "saber",
-              "name": "saber",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         }
@@ -196,7 +170,6 @@
         },
         {
           "id": "karina_002",
-          "skin_name": "Doom Duelist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_doomduelist.zip",
           "featured": false,
@@ -208,24 +181,11 @@
               "file": "Luckybox Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
-            },
-            {
-              "id": "karina",
-              "name": "karina",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
         {
           "id": "karina_003",
-          "skin_name": "Leona",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_leona.zip",
           "featured": true,
@@ -237,24 +197,11 @@
               "file": "KOF Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "collab"
-            },
-            {
-              "id": "karina",
-              "name": "karina",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
         {
           "id": "karina_004",
-          "skin_name": "Christmas Carnival",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_christmas.zip",
           "featured": false,
@@ -266,24 +213,11 @@
               "file": "Christmas Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
-            },
-            {
-              "id": "karina",
-              "name": "karina",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
         {
           "id": "karina_005",
-          "skin_name": "Gemini - Halo",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_gemini.zip",
           "featured": false,
@@ -295,24 +229,11 @@
               "file": "Zodiac Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
-            },
-            {
-              "id": "karina",
-              "name": "karina",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
         {
           "id": "karina_006",
-          "skin_name": "Spider Lily",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_spiderlily.zip",
           "featured": false,
@@ -324,18 +245,6 @@
               "file": "Elite Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
-            },
-            {
-              "id": "karina",
-              "name": "karina",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         }
@@ -377,7 +286,6 @@
         },
         {
           "id": "fanny_002",
-          "skin_name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
           "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
           "featured": true,
@@ -389,24 +297,11 @@
               "file": "Legend Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
         {
           "id": "fanny_003",
-          "skin_name": "Lifeguard",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_summer.zip",
           "featured": false,
@@ -418,24 +313,11 @@
               "file": "Summer Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
         {
           "id": "fanny_004",
-          "skin_name": "Christmas Carnival",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_christmas.zip",
           "featured": false,
@@ -447,18 +329,6 @@
               "file": "Christmas Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
           ]
         },
