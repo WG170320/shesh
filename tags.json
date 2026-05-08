@@ -498,6 +498,13 @@
       "type": "season"
     },
     {
+      "id": "saber",
+      "name": "Saber",
+      "file": "",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
+      "type": "skin_tag"
+    },
+    {
       "id": "saint_seiya",
       "name": "Saint Seiya",
       "file": "Saint Seiya Skin Tag.png",
