@@ -549,6 +549,44 @@
           ]
         }
       ]
+    },
+    {
+      "id": "helcurt",
+      "name": "Helcurt",
+      "category": "assassin",
+      "enabled": true,
+      "skins": [
+        {
+          "id": "helcurt_001",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Helcurt/main/Screenshot_20260508-093502_1.jpg",
+          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/O8%20Helcurt%20Backup.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "backup"
+          ]
+        },
+        {
+          "id": "helcurt_002",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Helcurt/main/Screenshot_20260508-093520_1.jpg",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/HELCURT%20ZODIAC%20NEW.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "shesh"
+          ]
+        },
+        {
+          "id": "helcurt_003",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Helcurt/main/Screenshot_20260508-093525_1.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Helcurt%20Starlight.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "starlight"
+          ]
+        }
+      ]
     }
   ]
 }
