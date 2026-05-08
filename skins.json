@@ -8,7 +8,7 @@
       "skins": [
         {
           "id": "saber_001",
-          "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest/scale-to-width-down/150?cb=20250406000702",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_backup.zip",
           "featured": false,
           "enabled": true,
@@ -24,7 +24,7 @@
         },
         {
           "id": "saber_002",
-          "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_215208293.png",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero038-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164337",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_forcewarrior.zip",
           "featured": false,
           "enabled": true,
@@ -35,6 +35,13 @@
               "file": "AS Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/AS_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "series"
+            },
+            {
+              "id": "legend",
+              "name": "Legend",
+              "file": "Legend Skin Tag.png",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+              "type": "rarity"
             },
             {
               "id": "saber",
