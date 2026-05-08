@@ -1,0 +1,606 @@
+{
+  "tag_database": [
+    {
+      "id": "515",
+      "name": "515",
+      "file": "515 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/515_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "5th_anniversary",
+      "name": "5th Anniversary",
+      "file": "5th Anniversary Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/5th_Anniversary_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "7th_anniversary",
+      "name": "7th Anniversary",
+      "file": "7th Anniversary Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/7th_Anniversary_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "8th_anniversary",
+      "name": "8th Anniversary",
+      "file": "8th Anniversary Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/8th_Anniversary_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "abyss",
+      "name": "ABYSS",
+      "file": "ABYSS Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "allstar",
+      "name": "ALLSTAR",
+      "file": "ALLSTAR Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/ALLSTAR_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "allstar_2024",
+      "name": "ALLSTAR 2024",
+      "file": "ALLSTAR 2024 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/ALLSTAR_2024_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "annual_starlight",
+      "name": "Annual Starlight",
+      "file": "Annual Starlight Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "as",
+      "name": "AS",
+      "file": "AS Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/AS_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "atomic",
+      "name": "Atomic",
+      "file": "Atomic Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Atomic_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "attack_on_titan",
+      "name": "Attack on Titan",
+      "file": "Attack on Titan Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "blazing_bounties",
+      "name": "Blazing Bounties",
+      "file": "Blazing Bounties Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "champion",
+      "name": "Champion",
+      "file": "Champion Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "file": "Christmas Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "clouds",
+      "name": "Clouds",
+      "file": "Clouds Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Clouds_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "collector",
+      "name": "Collector",
+      "file": "Collector Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "create",
+      "name": "Create",
+      "file": "Create Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Create_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "double_11",
+      "name": "Double 11",
+      "file": "Double 11 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Double_11_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "dragon_tamer",
+      "name": "Dragon Tamer",
+      "file": "Dragon Tamer Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Dragon_Tamer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "ducati",
+      "name": "Ducati",
+      "file": "Ducati Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Ducati_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "elite",
+      "name": "Elite",
+      "file": "Elite Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "epic",
+      "name": "Epic",
+      "file": "Epic Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween",
+      "file": "Halloween Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "kof",
+      "name": "KOF",
+      "file": "KOF Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "kung_fu_panda",
+      "name": "Kung Fu Panda",
+      "file": "Kung Fu Panda Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Kung_Fu_Panda_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "legend",
+      "name": "Legend",
+      "file": "Legend Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "lightborn",
+      "name": "Lightborn",
+      "file": "Lightborn Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "limited",
+      "name": "Limited",
+      "file": "Limited Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Limited_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "luckybox",
+      "name": "Luckybox",
+      "file": "Luckybox Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "m1",
+      "name": "M1",
+      "file": "M1 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/M1_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "m2",
+      "name": "M2",
+      "file": "M2 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/M2_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "m3",
+      "name": "M3",
+      "file": "M3 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/M3_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "mistbenders",
+      "name": "Mistbenders",
+      "file": "Mistbenders Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mistbenders_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "mpl",
+      "name": "MPL",
+      "file": "MPL Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "msc_2018",
+      "name": "MSC 2018",
+      "file": "MSC 2018 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/MSC_2018_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "msc_2019",
+      "name": "MSC 2019",
+      "file": "MSC 2019 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/MSC_2019_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "msc_2021",
+      "name": "MSC 2021",
+      "file": "MSC 2021 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/MSC_2021_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "msc_2022",
+      "name": "MSC 2022",
+      "file": "MSC 2022 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "esports"
+    },
+    {
+      "id": "neymar_jr",
+      "name": "Neymar Jr",
+      "file": "Neymar Jr Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Neymar_Jr_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "prime",
+      "name": "PRIME",
+      "file": "PRIME Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "rising",
+      "name": "Rising",
+      "file": "Rising Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Rising_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "s_a_b_e_r",
+      "name": "S.A.B.E.R.",
+      "file": "S.A.B.E.R. Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "s_t_u_n",
+      "name": "S.T.U.N.",
+      "file": "S.T.U.N. Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "s1",
+      "name": "S1",
+      "file": "S1 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/S1_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s10",
+      "name": "S10",
+      "file": "S10 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/S10_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s11",
+      "name": "S11",
+      "file": "S11 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/S11_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s12",
+      "name": "S12",
+      "file": "S12 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/S12_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s13",
+      "name": "S13",
+      "file": "S13 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/S13_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s14",
+      "name": "S14",
+      "file": "S14 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/S14_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s15",
+      "name": "S15",
+      "file": "S15 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/S15_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s16",
+      "name": "S16",
+      "file": "S16 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/S16_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s17",
+      "name": "S17",
+      "file": "S17 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/S17_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s18",
+      "name": "S18",
+      "file": "S18 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/S18_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s19",
+      "name": "S19",
+      "file": "S19 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/S19_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s2",
+      "name": "S2",
+      "file": "S2 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/S2_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s20",
+      "name": "S20",
+      "file": "S20 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/S20_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s21",
+      "name": "S21",
+      "file": "S21 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/S21_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s24",
+      "name": "S24",
+      "file": "S24 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/S24_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s25",
+      "name": "S25",
+      "file": "S25 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/S25_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s27",
+      "name": "S27",
+      "file": "S27 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/S27_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s28",
+      "name": "S28",
+      "file": "S28 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/S28_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s29",
+      "name": "S29",
+      "file": "S29 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/S29_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s3",
+      "name": "S3",
+      "file": "S3 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/S3_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s31",
+      "name": "S31",
+      "file": "S31 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/S31_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s32",
+      "name": "S32",
+      "file": "S32 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/S32_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s33",
+      "name": "S33",
+      "file": "S33 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/S33_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s4",
+      "name": "S4",
+      "file": "S4 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/S4_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s5",
+      "name": "S5",
+      "file": "S5 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/S5_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s6",
+      "name": "S6",
+      "file": "S6 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/S6_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s7",
+      "name": "S7",
+      "file": "S7 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/S7_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "s8",
+      "name": "S8",
+      "file": "S8 Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/S8_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "season"
+    },
+    {
+      "id": "saint_seiya",
+      "name": "Saint Seiya",
+      "file": "Saint Seiya Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "sanrio",
+      "name": "Sanrio",
+      "file": "Sanrio Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Sanrio_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "soul_vessels",
+      "name": "Soul Vessels",
+      "file": "Soul Vessels Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Soul_Vessels_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "sparkle",
+      "name": "Sparkle",
+      "file": "Sparkle Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Sparkle_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "special",
+      "name": "Special",
+      "file": "Special Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "star_wars",
+      "name": "Star Wars",
+      "file": "Star Wars Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "starlight",
+      "name": "Starlight",
+      "file": "Starlight Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "rarity"
+    },
+    {
+      "id": "summer",
+      "name": "Summer",
+      "file": "Summer Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "the_aspirants",
+      "name": "The Aspirants",
+      "file": "The Aspirants Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "the_exorcists",
+      "name": "The Exorcists",
+      "file": "The Exorcists Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/The_Exorcists_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "transformers",
+      "name": "Transformers",
+      "file": "Transformers Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "collab"
+    },
+    {
+      "id": "v_e_n_o_m",
+      "name": "V.E.N.O.M.",
+      "file": "V.E.N.O.M. Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "valentine",
+      "name": "Valentine",
+      "file": "Valentine Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    },
+    {
+      "id": "zenith",
+      "name": "Zenith",
+      "file": "Zenith Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Zenith_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "series"
+    },
+    {
+      "id": "zodiac",
+      "name": "Zodiac",
+      "file": "Zodiac Skin Tag.png",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+      "type": "event"
+    }
+  ]
+}
