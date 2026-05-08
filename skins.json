@@ -587,6 +587,84 @@
           ]
         }
       ]
+    },
+    {
+      "id": "alucard",
+      "name": "Alucard",
+      "category": "fighter",
+      "enabled": true,
+      "skins": [
+        {
+          "id": "alucard_001",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Alucard/main/Screenshot_20260508-100318_1.jpg",
+          "script": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20BACKUP.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "backup"
+          ]
+        },
+        {
+          "id": "alucard_002",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Alucard/main/Screenshot_20260508-100336_1_1_1.jpg",
+          "script": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/ALUCARD%20VALENTINE.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "valentine"
+          ]
+        },
+        {
+          "id": "alucard_003",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Alucard/main/Screenshot_20260508-100342_1.jpg",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LEGEND%20RVAMP.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "legend"
+          ]
+        },
+        {
+          "id": "alucard_004",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Alucard/main/Screenshot_20260508-100349_1.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Alucard%20Lightborn.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "lightborn"
+          ]
+        },
+        {
+          "id": "alucard_005",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Alucard/main/Screenshot_20260508-100354_1.jpg",
+          "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Alucard%20Starwars.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "shesh"
+          ]
+        },
+        {
+          "id": "alucard_006",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Alucard/main/Screenshot_20260508-100359_1.jpg",
+          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ALUCARD%20SPESIAL.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "shesh"
+          ]
+        },
+        {
+          "id": "alucard_007",
+          "image": "https://raw.githubusercontent.com/kairimlbb17-tech/Alucard/main/Screenshot_20260508-100419_1.jpg",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/ALUCARD%20LUCKYBOX%20FIX.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [
+            "luckybox"
+          ]
+        }
+      ]
     }
   ]
 }
