@@ -861,7 +861,7 @@
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
-            "limited"
+            "naruto"
           ]
         }
       ],
@@ -926,9 +926,7 @@
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Techie%20to%20Kakashi.zip",
           "type": "upgrade",
           "enabled": true,
-          "skin_tags": [
-            "limited"
-          ]
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -992,9 +990,7 @@
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Basic%20to%20Kakashi.zip",
           "type": "upgrade",
           "enabled": true,
-          "skin_tags": [
-            "limited"
-          ]
+          "skin_tags": []
         },
         {
           "id": "hayabusa_spacetime_shadow_to_summer_festival",
@@ -1067,9 +1063,7 @@
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Starlight%20to%20Kakashi.zip",
           "type": "upgrade",
           "enabled": true,
-          "skin_tags": [
-            "limited"
-          ]
+          "skin_tags": []
         }
       ],
       "skin_tags": []
