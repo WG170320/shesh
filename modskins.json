@@ -1,0 +1,15 @@
+{
+  "modskins": [
+    {
+      "id": "kaido",
+      "name": "Kaido",
+      "category": "Anime",
+      "series": "One Piece",
+      "image": "IMAGE_URL_HERE",
+      "script": "ZIP_URL_HERE",
+      "enabled": true,
+      "featured": true,
+      "tags": ["Anime", "One Piece"]
+    }
+  ]
+}
