@@ -39,6 +39,48 @@
       "tags": [
         "Anime"
       ]
+    },
+    {
+      "id": "suguru_geto",
+      "name": "Suguru Geto",
+      "category": "",
+      "series": "Jujutsu Kaizen",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Anime",
+        "Jujutsu Kaizen"
+      ]
+    },
+    {
+      "id": "aizen",
+      "name": "Aizen",
+      "category": "Anime",
+      "series": "Bleach",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Anime",
+        "Bleach"
+      ]
+    },
+    {
+      "id": "kento_nanami",
+      "name": "Kento Nanami",
+      "category": "Anime",
+      "series": "Jujutsu Kaizen",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Anime",
+        "Jujutsu Kaizen"
+      ]
     }
   ],
   "version": 1,
