@@ -5,8 +5,8 @@
       "name": "Kaido",
       "category": "Anime",
       "series": "One Piece",
-      "image": "IMAGE_URL_HERE",
-      "script": "ZIP_URL_HERE",
+      "image": "https://i.imgur.com/XXXX.jpg",
+      "script": "https://github.com/xxx/kaido.zip",
       "enabled": true,
       "featured": true,
       "tags": ["Anime", "One Piece"]
