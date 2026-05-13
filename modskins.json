@@ -1,45 +1,31 @@
 {
   "modskins": [
     {
-      "id": "kaido",
-      "name": "Yu Zhong",
+      "id": "aizen",
+      "name": "Argus",
       "category": "Anime",
-      "series": "One Piece",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/kaido-hybrid-form.jpg?w=1200&h=900&fit=crop",
-      "script": "https://github.com/xxx/kaido.zip",
-      "enabled": true,
-      "featured": true,
-      "tags": [
-        "Kaido",
-        "One Piece"
-      ]
-    },
-    {
-      "id": "choso",
-      "name": "Brody",
-      "category": "Anime",
-      "series": "JujutsuKaisen",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip",
+      "series": "Bleach",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
       "enabled": true,
       "featured": false,
       "tags": [
-        "Choso",
-        "Jujutsu Kaizen"
+        "Aizen",
+        "Bleach"
       ]
     },
     {
-      "id": "monkey_d_luffy",
-      "name": "Sora",
+      "id": "alucard",
+      "name": "Alucard",
       "category": "Anime",
-      "series": "One Piece",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20SORA%20LUFFY.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Sora%20X%20Monkey%20D%20Luffy.zip",
+      "series": "Ichigo Kurosaki",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
       "enabled": true,
-      "featured": true,
+      "featured": false,
       "tags": [
-        "Monkey D'Luffy",
-        "One piece"
+        "Ichigo Kurosaki",
+        "Bleach"
       ]
     },
     {
@@ -57,30 +43,16 @@
       ]
     },
     {
-      "id": "aizen",
-      "name": "Argus",
+      "id": "choso",
+      "name": "Brody",
       "category": "Anime",
-      "series": "Bleach",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
+      "series": "JujutsuKaisen",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip",
       "enabled": true,
       "featured": false,
       "tags": [
-        "Aizen",
-        "Bleach"
-      ]
-    },
-    {
-      "id": "kento_nanami",
-      "name": "Nolan",
-      "category": "Anime",
-      "series": "Jujutsu Kaizen",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Kento Nanami",
+        "Choso",
         "Jujutsu Kaizen"
       ]
     },
@@ -99,17 +71,45 @@
       ]
     },
     {
-      "id": "alucard",
-      "name": "Alucard",
+      "id": "kento_nanami",
+      "name": "Nolan",
       "category": "Anime",
-      "series": "Ichigo Kurosaki",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
+      "series": "Jujutsu Kaizen",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
       "enabled": true,
       "featured": false,
       "tags": [
-        "Ichigo Kurosaki",
-        "Bleach"
+        "Kento Nanami",
+        "Jujutsu Kaizen"
+      ]
+    },
+    {
+      "id": "monkey_d_luffy",
+      "name": "Sora",
+      "category": "Anime",
+      "series": "One Piece",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20SORA%20LUFFY.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Sora%20X%20Monkey%20D%20Luffy.zip",
+      "enabled": true,
+      "featured": true,
+      "tags": [
+        "Monkey D'Luffy",
+        "One piece"
+      ]
+    },
+    {
+      "id": "kaido",
+      "name": "Yu Zhong",
+      "category": "Anime",
+      "series": "One Piece",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/kaido-hybrid-form.jpg?w=1200&h=900&fit=crop",
+      "script": "https://github.com/xxx/kaido.zip",
+      "enabled": true,
+      "featured": true,
+      "tags": [
+        "Kaido",
+        "One Piece"
       ]
     },
     {
