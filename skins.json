@@ -12,7 +12,8 @@
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_backup.zip",
           "featured": false,
           "enabled": true,
-          "tags": []
+          "tags": [],
+          "skin_name": "Wandering Sword"
         },
         {
           "id": "saber_002",
@@ -20,7 +21,8 @@
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_forcewarrior.zip",
           "featured": false,
           "enabled": true,
-          "tags": []
+          "tags": [],
+          "skin_name": "Force Warrior"
         },
         {
           "id": "saber_003",
@@ -36,7 +38,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Codename - Storm"
         },
         {
           "id": "saber_004",
@@ -52,7 +55,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/S.A.B.E.R._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20250308103137",
               "type": "skin_tag"
             }
-          ]
+          ],
+          "skin_name": "S.A.B.E.R. Regulator"
         },
         {
           "id": "saber_005",
@@ -68,7 +72,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Iron Hound"
         },
         {
           "id": "saber_006",
@@ -84,7 +89,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Onimaru"
         }
       ]
     },
@@ -136,7 +142,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Doom Duelist"
         },
         {
           "id": "karina_003",
@@ -152,7 +159,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "collab"
             }
-          ]
+          ],
+          "skin_name": "Leona"
         },
         {
           "id": "karina_004",
@@ -168,7 +176,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
             }
-          ]
+          ],
+          "skin_name": "Christmas Carnival"
         },
         {
           "id": "karina_005",
@@ -184,7 +193,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
             }
-          ]
+          ],
+          "skin_name": "Gemini - Halo"
         },
         {
           "id": "karina_006",
@@ -200,7 +210,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Spider Lily"
         }
       ]
     },
@@ -252,7 +263,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Galactic Starhawk"
         },
         {
           "id": "fanny_003",
@@ -268,7 +280,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
             }
-          ]
+          ],
+          "skin_name": "Lifeguard"
         },
         {
           "id": "fanny_004",
@@ -284,7 +297,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
             }
-          ]
+          ],
+          "skin_name": "Christmas Carnival"
         },
         {
           "id": "fanny_005",
@@ -300,7 +314,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "collab"
             }
-          ]
+          ],
+          "skin_name": "Mikasa"
         },
         {
           "id": "fanny_006",
@@ -374,7 +389,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "series"
             }
-          ]
+          ],
+          "skin_name": "Blade of Kibou"
         },
         {
           "id": "fanny_009",
