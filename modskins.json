@@ -83,6 +83,88 @@
         "Kento Nanami",
         "Jujutsu Kaizen"
       ]
+    },
+    {
+      "id": "argus",
+      "name": "Argus",
+      "category": "Anime",
+      "series": "JujutsuKaisen",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Argus%20X%20Toji%20V2.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Toji Foshiguru",
+        "JujutsuKaisen"
+      ]
+    },
+    {
+      "id": "alucard",
+      "name": "Alucard",
+      "category": "Anime",
+      "series": "Ichigo Kurosaki",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Ichigo Kurosaki",
+        "Bleach"
+      ]
+    },
+    {
+      "id": "paquito",
+      "name": "Paquito",
+      "category": "Jollibee",
+      "series": "Jollibee",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PAQUITO%20JOEBELII.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20PAQUITOO%20JOLIIBEE.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Jollibee"
+      ]
+    },
+    {
+      "id": "chou",
+      "name": "Chou",
+      "category": "Mcdonalds",
+      "series": "Mcdonalds",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHOU%20MCDO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20CHOU%20TO%20MCDOO.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Mcdonalds"
+      ]
+    },
+    {
+      "id": "yu_zhong",
+      "name": "Yu Zhong",
+      "category": "Tanjiro",
+      "series": "DemonSlayer",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YUZHONG%20TANJIRO.png",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20YuZhong%20Tanjiro.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Tanjiro",
+        "DemonSlayer"
+      ]
+    },
+    {
+      "id": "alucard_2",
+      "name": "Alucard",
+      "category": "Anime",
+      "series": "Adventure Time",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20X%20FINN.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Finn",
+        "Adventure Time"
+      ]
     }
   ],
   "version": 1,
