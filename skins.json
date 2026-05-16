@@ -264,8 +264,9 @@
         },
         {
           "id": "fanny_002",
+          "name": "",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20LEGEND.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -276,9 +277,7 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ],
-          "skin_name": "Galactic Starhawk",
-          "name": ""
+          ]
         },
         {
           "id": "fanny_003",
@@ -5014,32 +5013,20 @@
         },
         {
           "id": "freya_002",
-          "skin_name": "Galactic Vanquisher",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
-          "script": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/freya_def_legend.zip",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/FREYA%20LEGEND%20DEFAULT.zip",
           "featured": false,
           "enabled": true,
           "tags": [
             {
-              "id": "backup",
-              "name": "backup",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "freya",
-              "name": "freya",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "fighter",
-              "name": "fighter",
-              "icon": "",
-              "file": ""
+              "id": "legend",
+              "name": "Legend",
+              "file": "Legend Skin Tag.png",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+              "type": "rarity"
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "freya_003",
@@ -17199,32 +17186,20 @@
         },
         {
           "id": "layla_002",
-          "skin_name": "Miss Hikari",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest?cb=20220525164729",
-          "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_aspirant.zip",
+          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J21%20LAYLA%20ASPIRANT%20FIX.zip",
           "featured": true,
           "enabled": true,
           "tags": [
             {
-              "id": "aspirants",
-              "name": "aspirants",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "layla",
-              "name": "layla",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
+              "id": "the_aspirants",
+              "name": "The Aspirants",
+              "file": "The Aspirants Skin Tag.png",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+              "type": "series"
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "layla_003",
@@ -18452,32 +18427,20 @@
         },
         {
           "id": "lesley_006",
-          "skin_name": "Angelic Agent",
+          "name": "",
           "image": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/lesley_legendPort.png",
-          "script": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/lesley_def_legend.zip",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LESLEY%20LEGEND%20REVAMP.zip",
           "featured": false,
           "enabled": true,
           "tags": [
             {
-              "id": "backup",
-              "name": "backup",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "lesley",
-              "name": "lesley",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
+              "id": "legend",
+              "name": "Legend",
+              "file": "Legend Skin Tag.png",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+              "type": "rarity"
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "lesley_007",
