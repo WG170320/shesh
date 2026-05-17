@@ -26251,7 +26251,35 @@
       "name": "Chuchi",
       "category": "assassin",
       "enabled": true,
-      "skins": []
+      "skins": [
+        {
+          "id": "chuchi_001",
+          "name": "Kungfuuu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfcTa7RC4YD2RtUuAwD9AZ5h39FLTJbQsGMLQOWifSw&s=10",
+          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/thanuz_kungfuassets.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
+        },
+        {
+          "id": "chuchi_002",
+          "name": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtT39O9zfiyf8-6kjTnNU6DFN-ScJCFWNG9w&s",
+          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/chou_dragon2017.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
+        },
+        {
+          "id": "chuchi_003",
+          "name": "",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6oIqEFl7Go7bREkZ-ajeYn-H3nKUe5s3tPd-FDD5P6N0bhEOsOYhi1Y&s=10",
+          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/alpha_legendfiles.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
+        }
+      ]
     }
   ]
 }
