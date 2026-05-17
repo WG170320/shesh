@@ -26260,6 +26260,15 @@
           "featured": false,
           "enabled": true,
           "tags": []
+        },
+        {
+          "id": "boom_002",
+          "name": "",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
+          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/chou_dragon2017.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     }
