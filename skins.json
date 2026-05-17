@@ -26245,6 +26245,13 @@
           "name": ""
         }
       ]
+    },
+    {
+      "id": "chuchi",
+      "name": "Chuchi",
+      "category": "assassin",
+      "enabled": true,
+      "skins": []
     }
   ]
 }
