@@ -1,53 +1,25 @@
 {
   "recall": {
     "515! Shuttle!": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
-    "Atomic Pop": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+    "Atomic Pop": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Atomic%20Pop.jpeg",
     "Blazing West": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
-    "Classic": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+    "Classic": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Classic.jpeg",
     "Halloween": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
     "Light & Dark": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
-    "M3": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
-    "M4": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
-    "M5": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+    "M3": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/M3.jpeg",
+    "M4": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/M4.jpeg",
+    "M5": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/M5.jpeg",
     "Naruto": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Naruto.jpg",
-    "Oriental Fighter": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
+    "Oriental Fighter": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Oriental%20Fighters.jpeg",
     "Oriental Fighters": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
     "Party King": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
     "Party Star": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
     "Return of Storm": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
     "Return of Sword": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Return%20of%20Sword%20Rep.jpeg",
     "Snowman": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
-    "Starwars": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+    "Starwars": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Startwars.jpeg",
     "Stellar Brilliance": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
     "Super Return": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
     "Transformers": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg"
-  },
-  "trail": {
-    "1 Gord Legend": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Gord%20Legend.jpeg",
-    "2 Alucard Legend": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Alucard%20Legend.jpeg",
-    "3 Valir Legends": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Valir%20Legend.jpeg",
-    "4 Gusion Legend": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Gusion%20Legend.jpeg",
-    "5 Franco Legend": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Franco%20Legend.jpeg",
-    "6 Saber Legend": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Saber%20Legend.jpeg",
-    "7 Yu Zhong Prime": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Yu%20Zhong%20Prime.jpeg",
-    "8 Yu Zhong M5": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Yu%20Zhong%20M%EF%BC%95.jpeg",
-    "9 Roger Prime": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Roger%20Prime.jpeg",
-    "10 Roger M3": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Roger%20M%EF%BC%93.jpeg",
-    "11 Beatrix Prime": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Beatrix%20Prime.jpeg",
-    "12 Thamus Star": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Thamus%20Starlight.jpeg",
-    "13 Edith Star": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Edith%20Starlight.jpeg",
-    "14 Layla Star": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Layla%20Starlight.jpeg",
-    "15 Melissa Star": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Melissa%20Starlight.jpeg",
-    "16 Arlott Star": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Arlott%20Starlight.jpeg",
-    "17 Minsitthar Star": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Minsitthar%20Starlight.jpeg",
-    "Trail Claude Prime": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Claude%20Prime.jpeg",
-    "Trail Johnson Legend": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Johnson%20Legend.jpeg"
-  },
-  "emote": {
-    "G": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Doge.png"
-  },
-  "elimination": {
-    "Classic": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/Crash.jpeg",
-    "Classic Onic 2024": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/Onic.jpeg"
   }
 }
