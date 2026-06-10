@@ -235,7 +235,7 @@
       "skins": [
         {
           "id": "fanny_001",
-          "skin_name": "Backup",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
           "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_backup.zip",
           "featured": false,
@@ -246,21 +246,8 @@
               "name": "backup",
               "icon": "",
               "file": ""
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "fanny_002",
@@ -281,6 +268,7 @@
         },
         {
           "id": "fanny_003",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_summer.zip",
           "featured": false,
@@ -293,9 +281,7 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
             }
-          ],
-          "skin_name": "Lifeguard",
-          "name": ""
+          ]
         },
         {
           "id": "fanny_004",
@@ -335,7 +321,7 @@
         },
         {
           "id": "fanny_006",
-          "skin_name": "Skylark",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_skylark.zip",
           "featured": false,
@@ -347,25 +333,12 @@
               "file": "Luckybox Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "fanny_007",
-          "skin_name": "Lightborn - Ranger",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_lightborn.zip",
           "featured": false,
@@ -377,21 +350,8 @@
               "file": "Lightborn Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "series"
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "fanny_008",
@@ -413,7 +373,7 @@
         },
         {
           "id": "fanny_009",
-          "skin_name": "Heart Afloat",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb=20230212035453",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_heartafloat.zip",
           "featured": false,
@@ -425,25 +385,12 @@
               "file": "Valentine Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "fanny_010",
-          "skin_name": "Campus Youth",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb=20220525164702",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_campusyouth.zip",
           "featured": false,
@@ -455,25 +402,12 @@
               "file": "Elite Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "fanny_011",
-          "skin_name": "Royal Cavalry",
+          "name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb=20220525164705",
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_royalcavalry.zip",
           "featured": false,
@@ -485,25 +419,12 @@
               "file": "Starlight Skin Tag.png",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
-          ],
-          "name": ""
+          ]
         },
         {
           "id": "fanny_012",
-          "skin_name": "P.ACE",
+          "name": "",
           "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/fanny.png",
           "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/fanny_pace.zip",
           "featured": false,
@@ -514,21 +435,8 @@
               "name": "backup",
               "icon": "",
               "file": ""
-            },
-            {
-              "id": "fanny",
-              "name": "fanny",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
             }
-          ],
-          "name": ""
+          ]
         }
       ]
     },
