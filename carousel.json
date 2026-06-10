@@ -1,0 +1,17 @@
+[
+  {
+    "banner": "https://i.imgur.com/EXAMPLE1.jpg",
+    "name": "Fanny · Skylark",
+    "role": "Assassin",
+    "script": "https://github.com/kairimlbb17-tech/shesh/raw/main/scripts/fanny_skylark.zip"
+  },
+  {
+    "banner": "https://i.imgur.com/EXAMPLE2.jpg",
+    "name": "Chou · Hip Hop Boy",
+    "role": "Fighter",
+    "script": "https://github.com/kairimlbb17-tech/shesh/raw/main/scripts/chou_hiphop.zip"
+  },
+  {
+    "banner": "https://i.imgur.com/EXAMPLE3.jpg"
+  }
+]
