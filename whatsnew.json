@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "title": "What's New",
+  "items": [
+    {
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Chou_%28Hip-hop_Boy%29.jpg/revision/latest/scale-to-width-down/1000?cb=20241128083611",
+      "name": "Chou · Hip Hop Boy",
+      "tag": "NEW SKIN",
+      "desc": "Available na sa carousel — tap to apply!"
+    },
+    {
+      "image": "",
+      "name": "Live Carousel",
+      "tag": "NEW FEATURE",
+      "desc": "I-tap ang banner sa home para direktang i-apply ang skin."
+    }
+  ]
+}
