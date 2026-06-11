@@ -1,0 +1,22 @@
+{
+  "sponsor": {
+    "enabled": true,
+    "app_open_enabled": false,
+    "button_enabled": false,
+    "rotation_enabled": true,
+    "rotation_minutes": 30,
+    "claim_links": [
+      "https://temu.com/s/A2MsCu31bMqrObRY",
+      "https://temu.com/s/A2MsCu31bMqrObRY",
+      "https://temu.com/s/A2MsCu31bMqrObRY",
+      "https://temu.com/s/A2MsCu31bMqrObRY"
+    ],
+    "claim_link": "https://temu.com/s/A2MsCu31bMqrObRY"
+  },
+
+  "update_enabled": true,
+  "latest_version": 11,
+  "update_title": "✨ New Update Available ✨",
+  "update_message": "Fixed bugs in the Shizuku dialog, Fixed skin issues, Join our official Telegram group for updates & support, ❌ Can't install? ✅ Quick Fix: Uninstall the old version then reinstall the latest version from the Play Store",
+  "update_link": "https://play.google.com/store/apps/details?id=com.warlito.toolkit"
+}
